@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm Hyunwoo living in Korea
-- 🌱 I’m currently learning Python
+I'm Hyunwoo living in Korea. I just started to learn Python.
 <!--
 **alpppano/alpppano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

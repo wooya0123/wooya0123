@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Hyunwoo living in Korea. I just started to learn Python.
 <!--
-**alpppano/alpppano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wooya0123/wooya0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
